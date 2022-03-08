@@ -24,3 +24,21 @@
 - 1 n° da conta de origem errado
 - 2 n° da conta de destino errado
 - 3 O valor a ser transferido acima do saldo da conta de origem
+
+
+<h2>Como consumir a API?</h2>
+
+<h5>[api]/accounts</h5>
+<h3>Esse endpoint retorna todas as contas bancárias disponíveis</h3>
+
+
+<h5>[api]/fund-transfer</h5>
+<h3>Esse faz a operação de transferência bancária </h3>
+
+```
+{
+    "accountOrigin": "09781758",
+    "accountDestination": "78413035",
+    "value": 2.0
+}
+```
