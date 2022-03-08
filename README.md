@@ -21,6 +21,6 @@
 <h2>ERROS</h2>
 
 
--1 n° da conta de origem errado
--2 n° da conta de destino errado
--3 O valor a ser transferido acima do saldo da conta de origem
+- 1 n° da conta de origem errado
+- 2 n° da conta de destino errado
+- 3 O valor a ser transferido acima do saldo da conta de origem
