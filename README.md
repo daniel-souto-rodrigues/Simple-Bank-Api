@@ -28,8 +28,8 @@
 
 <h2>Como consumir a API?</h2>
 
-<h3>[api]/accounts</h5>
-<h5>Retorna todas as contas bancárias disponíveis</h5>
+<h5>[api]/accounts</h5>
+<h3>Retorna todas as contas bancárias disponíveis</h3>
 
 
 <h5>[api]/fund-transfer</h5>
