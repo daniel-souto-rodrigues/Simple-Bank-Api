@@ -1,7 +1,6 @@
 using System;
-using System.ComponentModel.DataAnnotations;
 
-namespace WebApiTeste.Models
+namespace SimpleBankAPI.Models
 {
     // classe de conta que contem todos os atributos
     public class AccountTransfer

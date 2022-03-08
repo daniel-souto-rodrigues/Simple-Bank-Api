@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using RestSharp;
-using WebApiTeste.Models;
+using SimpleBankAPI.Models;
 
-namespace WebApiTeste.Controllers
+namespace SimpleBankAPI.Controllers
 {
     [ApiController]
     [Route("")]

@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace WebApiTeste
+namespace SimpleBankAPI
 {
     public class Program
     {

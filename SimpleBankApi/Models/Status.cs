@@ -1,4 +1,4 @@
-﻿namespace WebApiTeste.Models
+﻿namespace SimpleBankAPI.Models
 {
     // Utilizei um enum para representar os status de cada transação
     public enum StatusInfo
