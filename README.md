@@ -18,7 +18,7 @@
 
 
 
-<h2>ERROS</h2>
+<h2>Possíveis erros tratados</h2>
 
 
 - 1 n° da conta de origem errado
