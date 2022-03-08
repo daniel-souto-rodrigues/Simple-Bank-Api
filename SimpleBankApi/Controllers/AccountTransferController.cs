@@ -16,7 +16,7 @@ namespace SimpleBankAPI.Controllers
         public static List<AccountTransfer> transactions = new List<AccountTransfer>();
 
 
-        //get que puxa os dados de contas, a minha API faz a chamada da outra API que retorna as contas
+        // get que puxa os dados de contas, a minha API faz a chamada da outra API que retorna as contas
         // utilizei métodos de retorno async para não travar a aplicação durante a execução de um request
 
         [HttpGet] //verbo do request
