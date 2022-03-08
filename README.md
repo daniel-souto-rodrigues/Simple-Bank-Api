@@ -1,5 +1,5 @@
 
-     Walkthrough Resolution
+<h2>Walkthrough Resolution</h2>
 
 
 
@@ -21,7 +21,7 @@
 
 
 
-            ERROS
+<h2>ERROS</h2>
 
 
 1-  n° da conta de origem errado
