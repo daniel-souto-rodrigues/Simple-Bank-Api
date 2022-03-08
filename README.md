@@ -51,6 +51,21 @@
 }
 ```
 
-<h5>[api]/fund-transfer/{transactionId}</h5>
-<h3>Esse faz a operação de transferência bancária </h3>
+<h4>[api]/fund-transfer/{transactionId}</h4>
+<h5> Retorna o status da transação e se houve algum erro </h5>
+
+```
+{
+    "status": "Error",
+    "message": "Invalid origin account number"
+}
+```
+
+ou
+
+```
+{
+    "status": "Confirmed"
+}
+```
 
