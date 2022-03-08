@@ -29,16 +29,27 @@
 <h2>Como consumir a API?</h2>
 
 <h5>[api]/accounts</h5>
-<h3>Esse endpoint retorna todas as contas bancárias disponíveis</h3>
+<h3>Retorna todas as contas bancárias disponíveis</h3>
 
 
 <h5>[api]/fund-transfer</h5>
-<h3>Esse faz a operação de transferência bancária </h3>
+<h3>Faz a operação de transferência bancária</h3>
 
 ```
 {
-    "accountOrigin": "09781758",
-    "accountDestination": "78413035",
-    "value": 2.0
+    "accountOrigin": "acountOriginNumber",
+    "accountDestination": "acountDestinationNumber",
+    "value": 0.0
 }
 ```
+
+<h3>Retorno</h3>
+```
+{
+    "transactionId": "1911f9a2-9f2e-11ec-b909-0242ac120002"
+}
+```
+
+<h5>[api]/fund-transfer/{transactionId}</h5>
+<h3>Esse faz a operação de transferência bancária </h3>
+
